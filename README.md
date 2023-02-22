@@ -15,8 +15,7 @@ https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
 
 - Part 2 : Using python and sklearn to initialise, train and evaluate a model
  Our Data was loaded using a python script and sklearn, we have been able to initialise the dataset, deciding on using LSTM model as this was the best choice for a financial stock data. 
-[Untitled-1 (dragged).jpeg.zip](https://github.com/abraham-ofolu/Project_4_Financial_Stock/files/10799333/Untitled-1.dragged.jpeg.zip)
-of code)
+<img width="1105" alt="Screenshot 2023-02-22 at 02 04 47" src="https://user-images.githubusercontent.com/111929009/220502263-230c58e0-59d3-422c-8cf4-5df42fbe58fe.png">
 
 
 - Part 3 : Data Model Optimisation which shows iterative changes in model performance 
