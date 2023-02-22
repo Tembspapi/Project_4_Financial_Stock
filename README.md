@@ -27,3 +27,9 @@ Model predictions and overall performance has been printed out and displayed at 
 - Part 5 : TABLEAU VISUALIZATION 
 We have been able to also create a visualizations of our data, predicted prices and also overall performance of various company stocks selected and here is a link to our tableau visualization.
  
+* TECHNOLOGIES USED
+- PYTHON
+- SKLEARN
+- KERAS
+- TABLEAU
+- GOOGLE COLAB
