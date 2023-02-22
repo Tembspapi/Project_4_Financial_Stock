@@ -2,7 +2,7 @@
 
 # BACKGROUND
 
-In this project, we will be collecting a dataset from the yahoo finance, and using a python script which has been initialised, trained and used to evaluate our model. 
+In this project, we will be collecting a dataset from the yahoo finance which is a financial stock data, and using a python script which has been initialised, trained and used to evaluate our model. 
 
 # INSTRUCTIONS
 
