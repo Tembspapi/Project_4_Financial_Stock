@@ -23,6 +23,9 @@ The Model optimisation and evaluation process shows iterative changes on our mod
 
 - Part 4 : PREDICTIONS AND OVERALL PERFORMANCE 
 Model predictions and overall performance has been printed out and displayed at the end of our python script and also saved as a csv file.
+<img width="917" alt="Screenshot 2023-02-23 at 10 28 41" src="https://user-images.githubusercontent.com/111929009/220882064-98a1404d-3137-4441-943e-c21f6c4d4bc4.png">
+
+
 
 - Part 5 : TABLEAU VISUALIZATION 
 We have been able to also create a visualizations of our data, predicted prices and also overall performance of various company stocks selected and here is a link to our tableau visualization.
